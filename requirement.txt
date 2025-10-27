@@ -1,5 +1,7 @@
-DB_NAME=travel_db
-DB_USER=root
-DB_PASSWORD=yourpassword
-DB_HOST=localhost
-DB_PORT=3306
+django
+djangorestframework
+django-cors-headers
+drf-yasg
+django-environ
+mysqlclient
+celery
