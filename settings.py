@@ -11,7 +11,10 @@ SECRET_KEY = 'your-secret-key'
 DEBUG = True
 ALLOWED_HOSTS = []
 
-INSTALLED_APPS = [
+INSTALLED_APPS = [ 
+    ...
+    'listings',
+]
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
